@@ -1,0 +1,14 @@
+{
+  "name": "Restaurante 1896",
+  "short_name": "Resto 1896",
+  "description": "Menú, pedidos en línea, reservas y delivery con seguimiento en vivo.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#12100c",
+  "theme_color": "#d4af37",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
